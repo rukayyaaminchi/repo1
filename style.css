@@ -1,0 +1,32 @@
+*navigation*/
+.main-nav ul {
+	background: white;
+	width:100%;
+}
+
+.main-nav ul li{
+	display: inline-block;
+	text-align: center;
+	margin-left: 15px;
+
+}
+
+.main-nav ul {
+	float: right;
+	background: #3498db;
+	text-align: right;
+	height: 40px;
+}
+
+/*logo*/
+
+.loh{
+	float: left;
+}
+
+li a:hover {
+	background-color: #555;
+	transition: 0.5s;
+	text-transform: uppercase;
+	color: white;
+}
